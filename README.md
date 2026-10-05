@@ -42,6 +42,7 @@ Applied knowledge from coursework. Learning, not claiming production expertise.
 | **Security Operations** | SOAR workflows, MITRE ATT&CK mapping, threat intelligence |
 | **Languages and Tools** | Python, PowerShell, Bash, Jupyter Notebook, Airflow |
 
+👉 [See detailed SANS coursework and technical skills](https://github.com/PinkAndPolicy/SANS-AI-Security-coursework)
 ---
 
 ## 🎙️ Beyond the Code
