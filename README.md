@@ -2,7 +2,7 @@
 
 **Cybersecurity Governance Leader | Turning Complex Risk into Clear, Workable Systems**
 
-28 years in tech and cybersecurity. Started as a software engineer, grew into program and operations leadership, and spent 23 of those years at Citi. CISSP certified. Based in the Bahamas.
+28 years in tech and cybersecurity. Started as a software engineer, grew into program and operations leadership, and spent 23 of those years at Citi. CISSP certified. Based in the USA.
 
 I bring clarity to ambiguity. I map messy processes, build reusable frameworks, and help teams do secure work without burning out.
 
